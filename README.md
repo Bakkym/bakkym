@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏼 I'm a software engineer with a passion for backend development<br>📬 Feel free to contact me
+👋🏼 I'm a software engineer with a passion for DevOps<br>📬 Feel free to contact me
 
 
 ## 🌐 Socials:
